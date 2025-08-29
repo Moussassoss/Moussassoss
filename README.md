@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
-<h3 align="center">I'm Moussa — Founder @ ChadNova ltd | Software Developer | AI/ML Enthusiast</h3>
+<h3 align="center">I'm Moussa — Founder of <link src="https://chadnova.com">ChadNova</link> | Software Developer | AI/ML Enthusiast</h3>
 
 <p align="center">🇹🇩 Originally from Chad | 🌍 Based in Rwanda | 📫 moussamahamat621@gmail.com</p>
 
