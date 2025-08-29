@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm **Moussa**, a passionate software developer and founder of **ChadNova ltd** an agency focused on building websites, software solutions, and AI-powered tools for African businesses and communities.
 
