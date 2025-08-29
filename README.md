@@ -46,7 +46,7 @@ I specialize in using technology to **solve real-life challenges**, especially i
 
 - 💼 **Project & Team Leadership**  
   - Leading cross-functional teams (designers, researchers, devs)  
-  - Founder of Twubake Digital Solutions  
+  - Founder of ChadNova ltd. 
   - Organizing and pitching innovative solutions in hackathons and demo days
 
 ---
