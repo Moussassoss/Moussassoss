@@ -63,9 +63,9 @@ I specialize in using technology to **solve real-life challenges**, especially i
 
 - 🌾 **Plant Doctor** — AI-powered app to detect plant diseases from images  
 - ☁️ **Agrivision**- A Climate-Resilient Farming Advisor that uses weather data to suggest crops  
-- 🧼 **  <a href="https://apps.apple.com/rw/app/cleanex/id6751606353" target="_blank">
-**CleanEx**
-  </a>** — A mobile app that connects professional cleaners to students.
+- 🧼 <a href="https://apps.apple.com/rw/app/cleanex/id6751606353" target="_blank">
+CleanEx
+  </a> — A mobile app that connects professional cleaners to students.
 - 🎓 **ONECS Tchad Platform** — Multilingual system for diploma verification & scholarships
 
 ---
